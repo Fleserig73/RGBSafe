@@ -1,0 +1,5 @@
+cursor_size = 100
+cursor_len = 1.5
+path = password.txt
+color = #00ff00
+cursor = normal
